@@ -1,0 +1,91 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  color: black;
+  background-color: white;
+}
+
+article {
+  width: 100%;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  font-variant: small-caps;
+  font-style: italic;
+  font-size: 28pt;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 22pt;
+}
+
+h3 {
+  font-style: normal;
+  font-size: 18pt;
+}
+
+h4 {
+  font-style: italic;
+  font-size: 16pt;
+}
+
+p {
+  text-align: justify;
+  text-indent: 2em;
+  }
+
+li {
+  text-align: justify;
+  list-style-type: none;
+}
+
+nav {
+  display: none;  
+}
+
+div#top_picture {
+  display: none;
+}
+
+aside {
+  display: none;
+}
+
+hr {
+  display: none;
+}
+
+a {
+  display: none;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+span.verse_number {
+  vertical-align: super;
+  font-size: 80%;
+}
+
+span.footnote_number {
+  vertical-align: super;
+  font-size: 50%;
+}
+
+div.poetry {
+  text-align: left;
+  text-indent: 3em;
+}
+
